@@ -123,9 +123,10 @@ container {
     width: 100%;
     height: 300px;
     position: relative;
-    background-image: url("../images/DSC_4190.jpg");
+    background-image: url("../images/FitCal_screenshot.png");
+    
     background-size: cover;
-    background-position: center;
+    background-position: top;
     justify-content: end;
     align-items: flex-start;
     border: solid white 4px;
@@ -145,6 +146,7 @@ container {
 }
 .item3 {
     background-image: url(../images/DSC_4310.jpg);
+    
 }
 .item4 {
     background-image: url(../images/DSC_4525.jpg);
